@@ -25,10 +25,41 @@ header {
     align-items: center;
     padding: 0 5%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: whitesmoke;
 }
 
 footer {
     color: whitesmoke;
     background-color: rgb(74, 47, 47, .6);
     display: flex;
+}
+
+li {
+    list-style: none;
+    line-break: auto;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 1.5em;
+    padding: 0 5%;
+}
+
+button {
+    background-color:rgb(74, 47, 47, .4);
+    border: 2px solid whitesmoke;
+    border-radius: 6px;
+    font-weight: bold;
+    width: 159px;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: rgb(74, 47, 47, .7);
+    border: 2px solid black;
+    border-radius: 6px;
+    font-weight: bold;
+    width: 159px;
+    margin: 10px;
 }
