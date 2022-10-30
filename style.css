@@ -26,12 +26,19 @@ header {
     padding: 0 5%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     color: whitesmoke;
+    text-shadow: 1000 10 20px rgba(0, 0, 0, 0.5);
 }
 
 footer {
-    color: whitesmoke;
-    background-color: rgb(74, 47, 47, .6);
+    background-color: rgb(74, 47, 47, .4);
+    width: 100%;
+    height: 20px;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 5%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: whitesmoke;
 }
 
 li {
