@@ -65,7 +65,7 @@ button {
 }
 
 button:hover {
-    background-color: rgb(74, 47, 47, .7);
+    background-color: rgb(32, 31, 31, .8);
     border: 2px solid black;
     border-radius: 6px;
     font-weight: bold;
