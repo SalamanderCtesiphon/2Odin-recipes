@@ -24,7 +24,7 @@ body {
     align-items: center;
     justify-content: space-between;
     height: 100vh;
-    background: url(../links-and-images/giglio-3389078_1920.jpg);
+    background: url(../links-and-images/granada-3107982_1920.jpg);
     color: whitesmoke;
     font-family: 'Poppins', sans-serif;
     background-color: rgb(74, 47, 47, .4);
@@ -37,7 +37,7 @@ body {
     align-items: center;
     flex-direction: column;
     flex-wrap: wrap;
-    height: auto;
+    height: 70%;
     width: 100%;
     /* remove bullet points */
     list-style: none;
@@ -82,6 +82,6 @@ a {
 
 img {
     width: auto;
-    height: 40%;
+    height: 60%;
     
 }

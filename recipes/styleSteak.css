@@ -24,7 +24,7 @@ body {
     align-items: center;
     justify-content: space-between;
     height: 100vh;
-    background: url(../links-and-images/giglio-3389078_1920.jpg);
+    background: url(../links-and-images/landscape-7380474_1920.jpg);
     color: whitesmoke;
     font-family: 'Poppins', sans-serif;
     background-color: rgb(74, 47, 47, .4);
@@ -33,11 +33,11 @@ body {
 .text-area {
     background-color: rgb(32, 31, 31, .8);
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     flex-direction: column;
     flex-wrap: wrap;
-    height: auto;
+    height: 90%;
     width: 100%;
     /* remove bullet points */
     list-style: none;
@@ -82,6 +82,19 @@ a {
 
 img {
     width: auto;
-    height: 40%;
+    height: 60%;
     
+}
+
+footer {
+    background-color: rgb(74, 47, 47, .6);
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 5%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: whitesmoke;
+    text-shadow: 1000 10 20px rgba(0, 0, 0, 0.5);
 }
